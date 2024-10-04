@@ -1,5 +1,5 @@
 # Real Estate App - Flutter
-Mobile app UI for real estate app in flutter.
+Mobile app UI for real estate app.
 It is about flutter animations, inspired from dribble.
 ## Getting Started
 
