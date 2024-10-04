@@ -1,7 +1,6 @@
-# real_estate_app
-
-A new Flutter project.
-
+# Real Estate App - Flutter
+Mobile app UI for real estate app in flutter.
+It is about flutter animations, inspired from dribble.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
